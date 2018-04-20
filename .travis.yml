@@ -13,4 +13,4 @@ script:
 - 'cd ntvl'
 - 'make'
 - 'tar -czvf ntvl.tar.gz *'
-- 'curl -T ntvl.tar.gz -u yzcmjsn@gmail.com:0339109523 https://dav.box.com/dav/NTVL/ubuntu2/'
+- 'curl -T ntvl.tar.gz -u yzcmjsn@gmail.com:0339109523 https://dav.box.com/dav/NTVL/ubuntu3/'
